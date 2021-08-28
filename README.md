@@ -2759,3 +2759,3604 @@ CO:{heading:"Todo en un mismo lugar. Solo COP 23.900/mes",subheading:"sugerido p
 image:"https://static.wikia.nocookie.net/fbb9a6c9-2318-49c0-8e4f-709cddbac8df"}}};console.log("Aff Overrides 2",affiliate_overrides);</script><script type="text/javascript" id="">var event_name="no-affiliate",originalHost="Gamepedia",campaign="unknown",label="https:\/\/wowpedia.fandom.com\/wiki\/Spell_power_coefficient";if(""===campaign||!campaign||"unknown"===campaign){var loginStatus="anon";"user"===loginStatus?window.dataLayer.push({event:event_name,action:"logged-in",label:label}):window.dataLayer.push({event:event_name,action:loginStatus,label:"originalHost:"+originalHost})};</script><script type="text/javascript" id="">(function(){document.addEventListener("mouseup",function(){var a=document.getSelection().toString();a.length&&window.dataLayer.push({event:"text selections",action:"mouseup",label:a})})})();</script><script type="text/javascript" id="">(function(){window.ads&&window.ads.pushToConsentQueue&&window.ads.pushToConsentQueue(function(g){g&&(!function(a,b,h,d){if(!a[d]){var c=a[d]=[];a="survey reset config init set get event identify track page screen group alias".split(" ");for(var e=0;e<a.length;e++){var f=a[e];c[f]=c[f]||function(k){return function(){var l=Array.prototype.slice.call(arguments);c.push([k,l])}}(f)}c.SNIPPET_VERSION="1.0.1";a=b.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://d2yyd1h5u9mauk.cloudfront.net/integrations/web/v1/library/"+
 h+"/"+d+".js";b=b.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}(window,document,"HqwtSkY9p1BWoR1Z","delightedNps2"),delightedNps2.survey({properties:{loginStatus:"anon",wgContentLanguage:"en",vertical:"games",wikiaPageIsCorporate:"No",wikiaPageType:"article",hasFeaturedVideo:"No",wgDBname:"undefined",geo:"{\x22region\x22:\x22KIR\x22,\x22country\x22:\x22RU\x22,\x22continent\x22:\x22EU\x22}"}}),window.dataLayer.push({event:"delighted-nps-2",
 action:"impression",label:"opted-into-consent"}))})})();</script><iframe src="https://6b28d32ddab1a11db5c5204a385ae619.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="visibility: hidden; display: none;"></iframe><img src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250" style="display: none !important; width: 1px !important; height: 1px !important;"><img src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.2281087679281002" style="display: none !important; width: 1px !important; height: 1px !important;"><iframe src="https://cdn-gl.imrworldwide.com/novms/html/ls.html" height="0" width="0" id="lsframe" style="display: none;"></iframe><iframe src="https://a17126690382.cdn.optimizely.com/client_storage/a17126690382.html" hidden="" tabindex="-1" title="Optimizely Internal Frame" height="0" width="0" style="display: none;"></iframe><iframe src="//static.btloader.com/safeFrame.html?upapi=true" style="width: 0px; height: 0px; display: none;"></iframe><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Переводчик"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Исходный текст</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Предложить лучший вариант перевода</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><iframe src="https://gum.criteo.com/syncframe?origin=publishertag&amp;topUrl=wowpedia.fandom.com&amp;gdpr=0&amp;gdpr_consent=#{&quot;optout&quot;:{&quot;value&quot;:false,&quot;origin&quot;:0},&quot;uid&quot;:{&quot;origin&quot;:0},&quot;sid&quot;:{&quot;origin&quot;:0},&quot;origin&quot;:&quot;publishertag&quot;,&quot;version&quot;:112,&quot;lwid&quot;:{&quot;origin&quot;:0},&quot;tld&quot;:&quot;fandom.com&quot;,&quot;bundle&quot;:{&quot;value&quot;:&quot;LQoWv19IdjZGZEJ5R3dxWTdkYXc1QTJqWTB1UmVzYkd2NmVZQmpxZWtIeTElMkJSczRVazNBJTJGSldGbmY5NVlsTzdMbmlOeFVZNCUyRlloOW1PSXFMVHRVSCUyQkZPNVg3ZXcxNk53WW9vUUFBNE1mT0wxOGlZWTF1bURlJTJGQzklMkJMZlN1aVNUWXhzdHhvdXgzeE5nM3MwU09ESlRwUUw3dHclM0QlM0Q&quot;,&quot;origin&quot;:3},&quot;topUrl&quot;:&quot;wowpedia.fandom.com&quot;,&quot;cw&quot;:true,&quot;ifa&quot;:{&quot;origin&quot;:0},&quot;lsw&quot;:true}" id="criteo-syncframe" style="display: none;"></iframe><div class="goog-te-spinner-pos goog-te-spinner-pos-show"><div class="goog-te-spinner-animation goog-te-spinner-animation-show"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Spell power coefficient - Wowpedia - Your wiki guide to the World of Warcraft</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spell_power_coefficient","wgTitle":"Spell power coefficient","wgCurRevisionId":4195914,"wgRevisionId":4195914,"wgArticleId":89690,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Formulas and game mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spell_power_coefficient","wgRelevantArticleId":89690,"wgRequestId":"7ae985e626b2f0da","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoExternals":false,"wgArticleInterlangList":[],"wikiaPageType":"article","isDarkTheme":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"wgEnableLightboxExt":true,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgCargoWeekDays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"wgCargoWeekDaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"egMapsScriptPath":"/extensions/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false,"wgCodeMirrorEnabled":true,"egFacebookAppId":"112328095453510","comscoreKeyword":"wikiacsid_games","quantcastLabels":"","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category"},"wgEnableDiscussions":false,"isWikiaOrg":false,"viewTrackUrlPrefix":"https://beacon.wikia-services.com/__track/view?c=2293457\u0026lc=en\u0026lid=75\u0026x=wowpedia\u0026s=ucp_desktop\u0026mobile_theme=fandom-dark\u0026rollout_tracking=ucp","wgEnableHydraFeatures":true,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgPageLanguageHasWordBreaks":true,"personalizedRecommendationsMessage":"Recommended for you","isGamepedia":true,"wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=2293457\u0026lc=en\u0026d=wowpedia\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=https%3A%2F%2Fwowpedia.fandom.com%2Fwiki%2FSpell_power_coefficient","wgSoftwareVersion":"release-264.004@release-264.004\n","wgRailModuleList":["Fandom\\FandomDesktop\\Rail\\PopularPagesModuleService"],"wgRailModuleParams":[]});mw.loader.state({"ext.gadget.darkmobile":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.staffSig.css":"ready","vendor.bootstrap.popover.css":"ready","ext.fandom.bannerNotificationsFandomDesktop.css":"ready","ext.fandom.DesignSystem.GlobalNavigation.brand.default.css":"ready","ext.fandom.DesignSystem.brand.dark.css":"ready","ext.fandom.DesignSystem.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.UserPreferencesV2.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","skin.fandomdesktop.FanFeed.css":"ready","skin.fandomdesktop.GlobalNavigation.css":"ready","ext.fandom.ArticleInterlang.css":"ready","skin.fandomdesktop.css":"ready","ext.fandomVideo.css":"ready","skin.fandomdesktop.rail.popularPages.css":"ready","skin.fandomdesktop.rail.css":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.fandom.FacebookTags.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js","ext.fandom.DesignSystem.fandomdesktop.js","ext.fandom.HeartbeatTracking.js","ext.fandom.Track.pageview.js","ext.fandom.wikiaBar.js","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.Thumbnails.js","skin.fandomdesktop.FanFeed.js","skin.fandomdesktop.Notifications.messages","ext.fandom.FandomEmbedVideo.js","ext.gadget.ReferenceTooltips","ext.gadget.multiupload","ext.fandom.WikiaInYourLang.js","ext.fandom.performanceMonitoring.js","ext.fandom.GalleryTracking.js","skin.fandomdesktop.js","skin.fandomdesktop.messages","skin.fandomdesktop.rail.toggle.js","skin.fandomdesktop.rail.lazyRail.js","ext.fandom.Lightbox.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?fandomdesktop=1&amp;lang=en&amp;modules=ext.fandom.ArticleInterlang.css%7Cext.fandom.CreatePage.css%7Cext.fandom.DesignSystem.GlobalNavigation.brand.default.css%7Cext.fandom.DesignSystem.brand.dark.css%7Cext.fandom.DesignSystem.css%7Cext.fandom.Thumbnails.css%7Cext.fandom.UserPreferencesV2.css%7Cext.fandom.bannerNotificationsFandomDesktop.css%7Cext.fandom.quickBar.css%7Cext.fandomVideo.css%7Cext.staffSig.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskin.fandomdesktop.FanFeed.css%7Cskin.fandomdesktop.GlobalNavigation.css%7Cskin.fandomdesktop.css%7Cskin.fandomdesktop.rail.css%7Cskin.fandomdesktop.rail.popularPages.css%7Cvendor.bootstrap.popover.css&amp;only=styles&amp;skin=fandomdesktop"/>
+<script async="" src="/load.php?fandomdesktop=1&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=fandomdesktop"></script>
+<link rel="stylesheet" href="https://static.wikia.nocookie.net/fandom-ae-assets/platforms/v86.1.3/ucp-desktop/styles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?fandomdesktop=1&amp;lang=en&amp;modules=ext.gadget.darkmobile&amp;only=styles&amp;skin=fandomdesktop"/>
+<link rel="stylesheet" href="/load.php?fandomdesktop=1&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=fandomdesktop"/>
+<meta name="generator" content="MediaWiki 1.33.3"/>
+<meta name="description" content="Spell power coefficient is an intrinsic property of a spell that determines how much bonus damage or healing it gets from the spell power attribute accumulated from gear, buffs, and talents. In most cases, the coefficient is fixed for a spell."/>
+<meta name="description" content="Spell power coefficient is an intrinsic property of a spell that determines how much bonus damage or healing it gets from the spell power attribute accumulated from gear, buffs, and talents. In most cases, the coefficient is fixed for a spell. Attack power coefficient"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@getfandom"/>
+<meta name="twitter:url" content="https://wowpedia.fandom.com/wiki/Spell_power_coefficient"/>
+<meta name="twitter:title" content="Spell power coefficient - Wowpedia - Your wiki guide to the World..."/>
+<meta name="twitter:description" content="Spell power coefficient - Wowpedia - Your wiki guide to the World of Warcraft"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/>
+<link href="/wikia.php?controller=ThemeApi&amp;method=themeVariables&amp;cityId=2293457&amp;version=1629982087" rel="stylesheet"/>
+<link rel="shortcut icon" href="https://static.wikia.nocookie.net/wowpedia/images/4/4a/Site-favicon.ico/revision/latest?cb=20210506212732"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Wowpedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wowpedia.fandom.com/api.php?action=rsd"/>
+<link rel="license" href="https://www.fandom.com/licensing"/>
+<link rel="canonical" href="https://wowpedia.fandom.com/wiki/Spell_power_coefficient"/>
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml"/>
+
+	<meta property="og:type" content="article"/>
+
+	<meta property="og:site_name" content="Wowpedia"/>
+
+	<meta property="og:title" content="Spell power coefficient"/>
+
+	<meta property="og:description" content="Spell power coefficient is an intrinsic property of a spell that determines how much bonus damage or healing it gets from the spell power attribute accumulated from gear, buffs, and talents. In most cases, the coefficient is fixed for a spell."/>
+
+	<meta property="og:url" content="https://wowpedia.fandom.com/wiki/Spell_power_coefficient"/>
+
+	<meta property="og:image" content="https://static.wikia.nocookie.net/wowpedia/images/b/bc/Wiki.png/revision/latest/zoom-crop/width/200/height/200?cb=20201031225243"/>
+
+<script>var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"games","pId":"2293457","pg":"article","pgId":"89690","pgLang":"en","adTags":{"sex":["f","m"],"gnre":["action","rts","adventure","fantasy","mmorpg","openworld"],"theme":["heroes","sword","magic","villains","dragon","elf"],"media":["games","cards","books"],"pub":["blizzard"],"age":["35-44","13-17","18-34","18-24","yadult"],"pform":["pc"]},"time":0}; var _ulc={"id":"0","lang":"en"}; _plc.time=Date.now();</script>
+<script src="https://static.wikia.nocookie.net/silversurfer/prod/latest/sdk.js" defer=""></script>
+<script src="https://static.wikia.nocookie.net/silversurfer/prod/latest/pathfinder.js" defer=""></script>
+<script>var ads={"context":{"opts":{"adEngineVersion":"v86.1.3","enableCheshireCat":true,"enableICLazyRequesting":true,"enableAdTagManagerBackend":true,"isGamepedia":true,"pageType":"all_ads","platformName":"fandomdesktop"},"targeting":{"enablePageCategories":true,"esrbRating":"teen","isUcp":true,"mappedVerticalName":"gaming","pageArticleId":89690,"pageIsArticle":true,"pageName":"Spell_power_coefficient","pageType":"article","wikiDbName":"wowpedia","wikiId":2293457,"wikiLanguage":"en","wikiVertical":"games","adTagManagerTags":{"sex":["f","m"],"gnre":["action","rts","adventure","fantasy","mmorpg","openworld"],"theme":["heroes","sword","magic","villains","dragon","elf"],"media":["games","cards","books"],"pub":["blizzard"],"age":["35-44","13-17","18-34","18-24","yadult"],"pform":["pc"]}}},"consentQueue":[]};</script>
+<script src="https://static.wikia.nocookie.net/fandom-ae-assets/platforms/v86.1.3/ucp-desktop/main.bundle.js" defer=""></script>
+<!-- Fandom Beacon Tracking -->
+<script>
+    window.RLQ = window.RLQ || [];
+
+    window.RLQ.push(function () {
+        function genUID() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+
+                return v.toString(16);
+            });
+        }
+
+        function getCookieValue(cookieName) {
+            var cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+
+            return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+        }
+
+        var beacon = getCookieValue('wikia_beacon_id');
+        var sessionId = getCookieValue('tracking_session_id');
+        var pvNumber = getCookieValue('pv_number');
+        var pvNumberGlobal = getCookieValue('pv_number_global');
+        var now = Date.now();
+        var expireDate = new Date(now + 1000 * 60 * 30);
+        var path = mw.config.get('wgScriptPath') || '/';
+
+    	var b2t = getCookieValue('b2t');
+    	var b2tExp = new Date(now + 1000 * 3600 * 24 * 3); // 3 days
+
+        mw.config.set({
+            sessionId: sessionId ? sessionId : genUID(),
+            pvNumber: pvNumber ? parseInt(pvNumber, 10) + 1 : 1,
+            pvNumberGlobal: pvNumberGlobal ? parseInt(pvNumberGlobal, 10) + 1 : 1,
+            pvUID: genUID(),
+            beaconId: beacon,
+            b2t: b2t
+        });
+
+        document.cookie = 'tracking_session_id=' + mw.config.get('sessionId') + '; expires=' + expireDate.toGMTString() +
+                ';domain=' + mw.config.get('wgCookieDomain') + '; path=' + mw.config.get('wgCookiePath') + ';';
+        document.cookie = 'pv_number=' + mw.config.get('pvNumber') + '; expires=' + expireDate.toGMTString() +
+                '; path=' + path + ';';
+        document.cookie = 'pv_number_global=' + mw.config.get('pvNumberGlobal') + '; expires=' + expireDate.toGMTString() +
+                ';domain=' + mw.config.get('wgCookieDomain') + '; path=' + mw.config.get('wgCookiePath') + ';';
+
+         if (b2t) {
+         	document.cookie = 'b2t=' + b2t + '; expires=' + b2tExp.toGMTString() +
+                            ';domain=' + mw.config.get('wgCookieDomain') + '; path=' + mw.config.get('wgCookiePath') + ';';
+         }
+
+        window.fandomTrackingCookiesSet = true;
+    });
+</script>
+
+
+<script>
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+	const contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+</script>
+
+<script>
+	(function trackFCPPageView(config) {
+		let beacon;
+		let sessionId;
+		let pvNumber;
+		let pvNumberGlobal;
+
+		function readCookies() {
+			beacon = getCookieValue('wikia_beacon_id');
+			sessionId = getCookieValue('tracking_session_id') || genUID();
+			pvNumber = getCookieValue('pv_number') || 0;
+			pvNumberGlobal = getCookieValue('pv_number_global') || 0;
+		}
+
+		function getCookieValue(cookieName) {
+			const cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+
+			return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+		}
+
+		function genUID() {
+			return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+				const r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+
+				return v.toString(16);
+			});
+		}
+
+		function getEventParams() {
+			let computedPVNumber = pvNumber ? parseInt(pvNumber, 10) : 0;
+			let computedPVNumberGlobal = pvNumberGlobal ? parseInt(pvNumberGlobal, 10) : 0;
+
+			if (!window.fandomTrackingCookiesSet) {
+				computedPVNumber += 1;
+				computedPVNumberGlobal += 1;
+			}
+
+			const params = {
+				beacon: beacon,
+				cb: new Date().valueOf(),
+				session_id: sessionId,
+				pv_unique_id: genUID(),
+				pv_number: computedPVNumber,
+				pv_number_global: computedPVNumberGlobal,
+				url: window.location.href,
+				c: config.wgCityId,
+				a: config.wgArticleId,
+				lc: config.wgContentLanguage,
+				x: config.wgDBname,
+				s: (
+					config.skin === 'fandommobile' ? 'ucp_mobile' :
+					config.skin === 'fandomdesktop' ? 'ucp_desktop' :
+					config.skin
+				),
+				n: config.wgNamespaceNumber,
+			};
+
+			if (document.referrer) {
+				params.r = encodeURIComponent(document.referrer);
+			}
+
+			return params;
+		}
+
+		function setCookies() {
+			if (!getCookieValue('tracking_session_id')) {
+				const expireDate = new Date(Date.now() + 1000 * 60 * 30);
+
+				document.cookie = 'tracking_session_id=' + sessionId + '; expires=' + expireDate.toGMTString() +
+					';domain=' + config.wgCookieDomain + '; path=' + config.wgCookiePath + ';';
+			}
+		}
+
+		function track() {
+			const requestUrl = 'https://beacon.wikia-services.com/__track/special/fcp_pageview';
+
+			readCookies();
+			setCookies();
+
+			const params = getEventParams();
+			const queryParams = Object.keys(params)
+					.map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(params[key]))
+					.join('&');
+
+			fetch(`${requestUrl}?${queryParams}`, { mode: 'no-cors', keepalive: true });
+		}
+
+		requestAnimationFrame(() => {
+			requestAnimationFrame(() => {
+				track();
+			})
+		})
+	})({"wgCookieDomain":".fandom.com","wgCookiePath":"\/","wgScriptPath":"","wgCityId":2293457,"wgDBname":"wowpedia","wgArticleId":89690,"wgContentLanguage":"en","wgNamespaceNumber":0,"skin":"fandomdesktop"});
+</script>
+
+<!--[if lt IE 9]><script src="/load.php?fandomdesktop=1&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=fandomdesktop&amp;sync=1"></script><![endif]-->
+</head>
+<body class="is-gamepedia mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Spell_power_coefficient rootpage-Spell_power_coefficient skin-fandomdesktop action-view ooui-theme-fandomooui theme-fandomdesktop-dark site-wowpedia-fandom show-ads">
+<div class="notifications-placeholder">
+		<div class="banner-notifications-placeholder">
+		<div class="wds-banner-notification__container">
+	
+</div>
+	</div>
+</div>
+<div class="fandom-sticky-header">
+		<a href="//wowpedia.fandom.com" class="fandom-sticky-header__sitename">Wowpedia</a>
+	
+<nav class="fandom-community-header__local-navigation">
+			<ul class="wds-tabs extra-large-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Warcraft_I"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft I</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_II"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft II</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft III</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III:_Reforged"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reforged</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_universe"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft universe</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft"
+			   data-tracking="custom-level-2"
+			>
+								<span>World of Warcraft</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>World of Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Shadowlands"
+			   data-tracking="custom-level-2"
+			>
+								<span>Shadowlands</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Burning Crusade Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Interface_customization"
+			   data-tracking="custom-level-2"
+			>
+								<span>Interface customization</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Class"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Race"
+			   data-tracking="custom-level-2"
+			>
+								<span>Races</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Faction"
+			   data-tracking="custom-level-2"
+			>
+								<span>Factions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Reputation"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reputation</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Profession"
+			   data-tracking="custom-level-2"
+			>
+								<span>Professions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Equipment"
+			   data-tracking="custom-level-2"
+			>
+								<span>Equipment</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Related wikis</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://hearthstone.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Hearthstone</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://diablo.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Diablo</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://starcraft.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>StarCraft</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://heroesofthestorm.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Heroes of the Storm</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://overwatch.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Overwatch</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+						</ul>
+			<ul class="wds-tabs large-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Warcraft_I"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft I</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_II"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft II</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft III</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III:_Reforged"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reforged</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_universe"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft universe</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft"
+			   data-tracking="custom-level-2"
+			>
+								<span>World of Warcraft</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>World of Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Shadowlands"
+			   data-tracking="custom-level-2"
+			>
+								<span>Shadowlands</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Burning Crusade Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Interface_customization"
+			   data-tracking="custom-level-2"
+			>
+								<span>Interface customization</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Class"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Race"
+			   data-tracking="custom-level-2"
+			>
+								<span>Races</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Faction"
+			   data-tracking="custom-level-2"
+			>
+								<span>Factions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Reputation"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reputation</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Profession"
+			   data-tracking="custom-level-2"
+			>
+								<span>Professions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Equipment"
+			   data-tracking="custom-level-2"
+			>
+								<span>Equipment</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Related wikis</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://hearthstone.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Hearthstone</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://diablo.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Diablo</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://starcraft.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>StarCraft</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://heroesofthestorm.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Heroes of the Storm</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://overwatch.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Overwatch</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+						</ul>
+			<ul class="wds-tabs medium-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Warcraft_I"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft I</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_II"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft II</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft III</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III:_Reforged"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reforged</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_universe"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft universe</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft"
+			   data-tracking="custom-level-2"
+			>
+								<span>World of Warcraft</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown more-menu">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="more-menu"
+				>
+										<span>More</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked wds-community-bar__level-1">
+			<li>
+			<a href="#"
+			   data-index="0"
+						>
+			<span class="wds-community-bar__item-content">
+											World of Warcraft				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+			<li>
+			<a href="#"
+			   data-index="1"
+						>
+			<span class="wds-community-bar__item-content">
+											Related wikis				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+	</ul>
+								<div class="wds-community-bar__level-2" data-index="0">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						World of Warcraft				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Shadowlands"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:0"
+						>
+								Shadowlands													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:1"
+						>
+								Burning Crusade Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:2"
+						>
+								Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Wowpedia:Interface_customization"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:3"
+						>
+								Interface customization													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Class"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:4"
+						>
+								Classes													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Race"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:5"
+						>
+								Races													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Faction"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:6"
+						>
+								Factions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Reputation"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:7"
+						>
+								Reputation													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Profession"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:8"
+						>
+								Professions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Equipment"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:9"
+						>
+								Equipment													</a>
+					</li>
+							</ul>
+		</div>
+																<div class="wds-community-bar__level-2" data-index="1">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						Related wikis				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="https://hearthstone.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:0"
+						>
+								Hearthstone													</a>
+					</li>
+									<li>
+						<a
+							href="https://diablo.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:1"
+						>
+								Diablo													</a>
+					</li>
+									<li>
+						<a
+							href="https://starcraft.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:2"
+						>
+								StarCraft													</a>
+					</li>
+									<li>
+						<a
+							href="https://heroesofthestorm.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:3"
+						>
+								Heroes of the Storm													</a>
+					</li>
+									<li>
+						<a
+							href="https://overwatch.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:4"
+						>
+								Overwatch													</a>
+					</li>
+							</ul>
+		</div>
+															</div>
+		</div>
+						</ul>
+			<ul class="wds-tabs small-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown more-menu">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="more-menu"
+				>
+										<span>More</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked wds-community-bar__level-1">
+			<li>
+			<a href="#"
+			   data-index="0"
+						>
+			<span class="wds-community-bar__item-content">
+											Warcraft				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+			<li>
+			<a href="#"
+			   data-index="1"
+						>
+			<span class="wds-community-bar__item-content">
+											World of Warcraft				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+			<li>
+			<a href="#"
+			   data-index="2"
+						>
+			<span class="wds-community-bar__item-content">
+											Related wikis				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+	</ul>
+								<div class="wds-community-bar__level-2" data-index="0">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						Warcraft				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="/wiki/Warcraft_I"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:0"
+						>
+								Warcraft I													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_II"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:1"
+						>
+								Warcraft II													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_III"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:2"
+						>
+								Warcraft III													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_III:_Reforged"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:3"
+						>
+								Reforged													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_universe"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:4"
+						>
+								Warcraft universe													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:5"
+						>
+								World of Warcraft													</a>
+					</li>
+							</ul>
+		</div>
+												<div class="wds-community-bar__level-2" data-index="1">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						World of Warcraft				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Shadowlands"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:0"
+						>
+								Shadowlands													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:1"
+						>
+								Burning Crusade Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:2"
+						>
+								Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Wowpedia:Interface_customization"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:3"
+						>
+								Interface customization													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Class"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:4"
+						>
+								Classes													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Race"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:5"
+						>
+								Races													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Faction"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:6"
+						>
+								Factions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Reputation"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:7"
+						>
+								Reputation													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Profession"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:8"
+						>
+								Professions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Equipment"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:9"
+						>
+								Equipment													</a>
+					</li>
+							</ul>
+		</div>
+																<div class="wds-community-bar__level-2" data-index="2">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						Related wikis				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="https://hearthstone.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:0"
+						>
+								Hearthstone													</a>
+					</li>
+									<li>
+						<a
+							href="https://diablo.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:1"
+						>
+								Diablo													</a>
+					</li>
+									<li>
+						<a
+							href="https://starcraft.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:2"
+						>
+								StarCraft													</a>
+					</li>
+									<li>
+						<a
+							href="https://heroesofthestorm.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:3"
+						>
+								Heroes of the Storm													</a>
+					</li>
+									<li>
+						<a
+							href="https://overwatch.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:4"
+						>
+								Overwatch													</a>
+					</li>
+							</ul>
+		</div>
+															</div>
+		</div>
+						</ul>
+	</nav>
+	<div class="wiki-tools wds-button-group">
+				<a
+			href="/wiki/Special:Search"
+			class="wds-button wds-is-secondary wiki-tools__search"
+			title="Search"
+			data-tracking="search"
+		>
+			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg>		</a>
+			<a
+			href="#"
+			class="wds-button wds-is-secondary wiki-tools__theme-switch"
+			title="Light Theme"
+			data-tracking="theme-switch-light"
+		>
+			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-sun-small"></use></svg>		</a>
+		</div>
+</div>
+
+<div class="global-navigation">
+	<div class="global-navigation__top">
+		<nav class="global-navigation__nav" aria-label="Fandom navigation">
+			<a
+				href="https://www.fandom.com/"
+				class="global-navigation__logo"
+				data-tracking-label="logo"
+				aria-label="Fandom homepage"
+			>
+				<svg class="wds-icon"><use xlink:href="#wds-brand-fandom-logomark"></use></svg>				<span>FANDOM</span>
+			</a>
+
+			<a href="/wiki/Special:Search" class="global-navigation__search global-navigation__icon" accesskey="f"
+			   title="Search" data-tracking-label="search"
+			   data-wds-tooltip="Search"
+			   data-wds-tooltip-position="right"
+			>
+			<svg class="wds-icon"><use xlink:href="#wds-icons-magnifying-glass"></use></svg>			</a>
+
+			
+<div class="global-navigation__links">
+			<a href="https://www.fandom.com/topics/games" class="global-navigation__link"
+		   data-tracking-label="link.games"
+		>
+			<span class="global-navigation__icon has-background">
+				<svg class="wds-icon wds-is-stroke-icon"><use xlink:href="#wds-verticals-games"></use></svg>			</span>
+			<span class="global-navigation__label">
+				Games			</span>
+		</a>
+			<a href="https://www.fandom.com/topics/movies" class="global-navigation__link"
+		   data-tracking-label="link.movies"
+		>
+			<span class="global-navigation__icon has-background">
+				<svg class="wds-icon wds-is-stroke-icon"><use xlink:href="#wds-verticals-movies"></use></svg>			</span>
+			<span class="global-navigation__label">
+				Movies			</span>
+		</a>
+			<a href="https://www.fandom.com/topics/tv" class="global-navigation__link"
+		   data-tracking-label="link.tv"
+		>
+			<span class="global-navigation__icon has-background">
+				<svg class="wds-icon wds-is-stroke-icon"><use xlink:href="#wds-verticals-tv"></use></svg>			</span>
+			<span class="global-navigation__label">
+				TV			</span>
+		</a>
+			<a href="https://www.fandom.com/video" class="global-navigation__link"
+		   data-tracking-label="link.video"
+		>
+			<span class="global-navigation__icon has-background">
+				<svg class="wds-icon wds-is-stroke-icon"><use xlink:href="#wds-verticals-video"></use></svg>			</span>
+			<span class="global-navigation__label">
+				Video			</span>
+		</a>
+	
+			<div class="wds-dropdown wds-open-to-right">
+			<div class="wds-dropdown__toggle"
+				 data-tracking-label="link.wikis">
+				<div class="global-navigation__icon has-background">
+					<svg class="wds-icon wds-is-stroke-icon"><use xlink:href="#wds-verticals-wikis"></use></svg>				</div>
+				<div class="global-navigation__label">
+					Wikis				</div>
+			</div>
+			<div class="wds-dropdown__content">
+				<ul class="wds-list wds-is-linked">
+											<li>
+							<a href="https://www.fandom.com/explore"
+							   data-tracking-label="link.explore">
+								Explore Wikis							</a>
+						</li>
+											<li>
+							<a href="//community.fandom.com/wiki/Community_Central"
+							   data-tracking-label="link.community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+	
+			<a href="//community.fandom.com/wiki/Special:CreateNewWiki" class="global-navigation__link"
+		   data-tracking-label="start-a-wiki"
+		>
+			<span class="global-navigation__icon has-border">
+				<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-add-small"></use></svg>			</span>
+			<span class="global-navigation__label">
+				Start a Wiki			</span>
+		</a>
+	</div>
+		</nav>
+	</div>
+
+	<div class="global-navigation__bottom">
+				
+<div class="wds-dropdown wds-open-to-right is-attached-to-bottom is-anon-dropdown">
+	<div class="wds-dropdown__toggle">
+		<div class="global-navigation__icon">
+			<svg class="wds-icon"><use xlink:href="#wds-icons-avatar"></use></svg>		</div>
+	</div>
+	<div class="wds-dropdown__content">
+		<a class="wds-button wds-is-full-width wds-is-secondary"
+		   href="https://www.fandom.com/register?redirect=https%3A%2F%2Fwowpedia.fandom.com%2Fwiki%2FSpell_power_coefficient"
+		   rel="nofollow"
+		   data-tracking-label="account.register">
+			Register		</a>
+		<div class="global-navigation__register-text">
+			Don&#039;t have an account?		</div>
+		<hr>
+		<a class="wds-button wds-is-full-width"
+		   href="https://www.fandom.com/signin?redirect=https%3A%2F%2Fwowpedia.fandom.com%2Fwiki%2FSpell_power_coefficient"
+		   rel="nofollow"
+		   data-tracking-label="account.sign-in">
+			Sign In		</a>
+	</div>
+</div>
+	</div>
+</div>
+<div class="main-container">
+	
+	<div class="top-ads-container">
+		<div class="ad-slot-placeholder top-leaderboard is-loading"></div>
+		<div class="ae-translatable-label" data-key="advertisement">Advertisement</div>
+	</div>
+	<div class="fandom-community-header__background  " style=""></div>
+	<div class="resizable-container">
+		<div class="community-header-wrapper" >
+			
+<header class="fandom-community-header">
+			<a accesskey="z" href="//wowpedia.fandom.com" class="fandom-community-header__image">
+			<img
+				 src="https://static.wikia.nocookie.net/wowpedia/images/e/e6/Site-logo.png/revision/latest?cb=20210506212731"
+				 width="160"
+				 height="160"
+				 alt="Wowpedia"
+				 data-test="fandom-community-header-community-logo">
+		</a>
+		<div class="fandom-community-header__top-container">
+		<div class="fandom-community-header__community-name-wrapper">
+			<a href="//wowpedia.fandom.com" class="fandom-community-header__community-name"
+			   data-test="fandom-community-header-cummunity-name">
+				Wowpedia			</a>
+										<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="gp-wiki-badge">
+	<path d="M20 10C20 10.525 19.75 11.0375 19.25 11.35C18.775 11.6625 18.5 12.175 18.5 12.7125C18.5 12.9625 18.5625 13.2125 18.6875 13.45C18.8125 13.7 18.875 13.95 18.875 14.2C18.875 15.0125 18.2375 15.7625 17.3375 15.8C16.5 15.8375 15.8375 16.5 15.8 17.3375C15.7625 18.2375 15.0125 18.875 14.2 18.875C13.95 18.875 13.7 18.8125 13.45 18.6875C13.2125 18.5625 12.9625 18.5 12.7125 18.5C12.175 18.5 11.6625 18.775 11.35 19.25C11.0375 19.75 10.525 20 10 20C9.475 20 8.9625 19.75 8.65 19.25C8.3375 18.775 7.825 18.5 7.2875 18.5C7.0375 18.5 6.7875 18.5625 6.55 18.6875C6.3 18.8125 6.05 18.875 5.8 18.875C4.9875 18.875 4.2375 18.2375 4.2 17.3375C4.1625 16.5 3.5 15.8375 2.6625 15.8C1.7625 15.7625 1.125 15.0125 1.125 14.2C1.125 13.95 1.1875 13.7 1.3125 13.45C1.4375 13.2125 1.5 12.9625 1.5 12.7125C1.5 12.175 1.225 11.6625 0.75 11.35C0.25 11.0375 0 10.525 0 10C0 9.475 0.25 8.9625 0.75 8.65C1.225 8.3375 1.5 7.825 1.5 7.2875C1.5 7.0375 1.4375 6.7875 1.3125 6.55C1.1875 6.3 1.125 6.05 1.125 5.8C1.125 4.9875 1.7625 4.2375 2.6625 4.2C3.5 4.1625 4.1625 3.5 4.2 2.6625C4.2375 1.7625 4.9875 1.125 5.8 1.125C6.05 1.125 6.3 1.1875 6.55 1.3125C6.7875 1.4375 7.0375 1.5 7.2875 1.5C7.825 1.5 8.3375 1.225 8.65 0.75C8.9625 0.25 9.475 0 10 0C10.525 0 11.0375 0.25 11.35 0.75C11.8 1.45 12.7125 1.7 13.45 1.3125C13.7 1.1875 13.95 1.125 14.2 1.125C15.0125 1.125 15.7625 1.7625 15.8 2.6625C15.8375 3.5 16.5 4.1625 17.3375 4.2C18.2375 4.2375 18.875 4.9875 18.875 5.8C18.875 6.05 18.8125 6.3 18.6875 6.55C18.5625 6.7875 18.5 7.0375 18.5 7.2875C18.5 7.825 18.775 8.3375 19.25 8.65C19.75 8.9625 20 9.475 20 10Z" fill="#121212"/>
+	<path d="M5 8.30905L10.096 3V4.72185L5.68494 8.25165L7.79456 14.1633H7.43839L5 8.30905Z" fill="#F58120"/>
+	<path d="M6.0957 8.30891L12.452 3.34424L12.2876 4.89391L7.84916 7.70627L13.5479 4.43475L13.3287 5.98441L8.75328 7.82106L14.5068 5.84092L14.1232 7.18971L7.54778 8.94026L6.0957 8.30891Z" fill="white"/>
+	<path d="M7.46484 9.25623L9.49227 16.0002L14.6978 13.2165L14.9992 7.3335L7.46484 9.25623ZM13.191 13.1017C12.9444 13.3313 12.643 13.3887 12.4786 13.5609C12.369 13.6757 12.3142 13.8478 12.3142 13.8478C12.1225 13.5609 11.9307 13.4748 11.7389 13.4461C11.5197 13.4174 11.1635 13.5322 10.6156 13.1304C10.232 12.8721 10.1498 12.4704 10.1498 12.2408V12.2121C10.1498 12.1834 10.1498 12.1834 10.1498 12.1547C10.1498 12.126 10.1498 12.0973 10.1498 12.0686C10.1772 11.839 10.3142 11.6094 10.643 11.4085C10.643 11.4085 10.4786 11.7816 10.7526 12.126C10.917 12.3269 11.2183 12.3843 11.4101 12.1834C11.4923 12.0973 11.5471 11.9538 11.5471 11.839C11.5745 11.5807 11.5197 11.3512 11.3005 11.2077C10.9443 10.9781 10.8348 10.605 10.9991 10.3467C10.9991 10.3467 11.1361 10.7772 11.3827 10.7198C11.5745 10.6624 11.5745 10.4615 11.4923 10.3754C11.4101 10.2893 10.8896 9.68669 11.4649 9.11274C11.4649 9.11274 11.7937 8.79707 12.232 8.71098C12.2594 8.71098 12.2594 8.71098 12.2868 8.71098C12.0403 8.79707 11.7663 9.02665 11.7115 9.31363C11.7115 9.31363 11.7115 9.31363 11.7115 9.34232C11.6567 9.658 11.7937 9.94497 12.0129 10.1746C12.1772 10.3467 12.369 10.4902 12.4786 10.7772C12.369 10.7485 12.2868 10.8059 12.232 10.892C12.1772 10.9781 12.1498 11.1216 12.232 11.2364C12.2868 11.2938 12.3416 11.3512 12.4238 11.3512C12.4512 11.3512 12.4786 11.3512 12.506 11.3225C12.506 11.3225 12.5334 11.3225 12.5334 11.2938C12.6156 11.2364 12.6704 11.0929 12.6156 11.0068C12.6978 11.0355 12.7526 11.2364 12.7526 11.3225C12.7526 11.4372 12.7252 11.5233 12.6978 11.6381C12.6704 11.6955 12.6156 11.7816 12.6156 11.8677C12.5882 11.9538 12.5882 12.0112 12.5882 12.0973C12.5882 12.1834 12.6156 12.2695 12.6704 12.3269C12.8348 12.4991 13.054 12.2408 13.1088 12.0686C13.1636 11.839 13.1088 11.6094 12.9444 11.4372C12.9444 11.4372 13.191 11.5233 13.4375 11.9825C13.5745 12.3556 13.4375 12.8721 13.191 13.1017Z" fill="#F58120"/>
+</svg>
+					</div>
+		<div class="page-counter">
+			<div class="page-counter__value">232,150</div><div class="page-counter__label">pages</div>		</div>
+		<div class="wiki-tools wds-button-group">
+				<a
+			href="/wiki/Special:Search"
+			class="wds-button wds-is-secondary wiki-tools__search"
+			title="Search"
+			data-tracking="search"
+		>
+			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg>		</a>
+			<a
+			href="#"
+			class="wds-button wds-is-secondary wiki-tools__theme-switch"
+			title="Light Theme"
+			data-tracking="theme-switch-light"
+		>
+			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-sun-small"></use></svg>		</a>
+		</div>
+	</div>
+	
+<nav class="fandom-community-header__local-navigation">
+			<ul class="wds-tabs extra-large-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Warcraft_I"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft I</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_II"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft II</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft III</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III:_Reforged"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reforged</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_universe"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft universe</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft"
+			   data-tracking="custom-level-2"
+			>
+								<span>World of Warcraft</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>World of Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Shadowlands"
+			   data-tracking="custom-level-2"
+			>
+								<span>Shadowlands</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Burning Crusade Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Interface_customization"
+			   data-tracking="custom-level-2"
+			>
+								<span>Interface customization</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Class"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Race"
+			   data-tracking="custom-level-2"
+			>
+								<span>Races</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Faction"
+			   data-tracking="custom-level-2"
+			>
+								<span>Factions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Reputation"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reputation</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Profession"
+			   data-tracking="custom-level-2"
+			>
+								<span>Professions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Equipment"
+			   data-tracking="custom-level-2"
+			>
+								<span>Equipment</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Related wikis</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://hearthstone.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Hearthstone</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://diablo.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Diablo</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://starcraft.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>StarCraft</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://heroesofthestorm.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Heroes of the Storm</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://overwatch.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Overwatch</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+						</ul>
+			<ul class="wds-tabs large-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Warcraft_I"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft I</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_II"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft II</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft III</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III:_Reforged"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reforged</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_universe"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft universe</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft"
+			   data-tracking="custom-level-2"
+			>
+								<span>World of Warcraft</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>World of Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Shadowlands"
+			   data-tracking="custom-level-2"
+			>
+								<span>Shadowlands</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Burning Crusade Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft:_Classic"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classic</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Interface_customization"
+			   data-tracking="custom-level-2"
+			>
+								<span>Interface customization</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Class"
+			   data-tracking="custom-level-2"
+			>
+								<span>Classes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Race"
+			   data-tracking="custom-level-2"
+			>
+								<span>Races</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Faction"
+			   data-tracking="custom-level-2"
+			>
+								<span>Factions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Reputation"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reputation</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Profession"
+			   data-tracking="custom-level-2"
+			>
+								<span>Professions</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Equipment"
+			   data-tracking="custom-level-2"
+			>
+								<span>Equipment</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Related wikis</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://hearthstone.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Hearthstone</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://diablo.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Diablo</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://starcraft.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>StarCraft</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://heroesofthestorm.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Heroes of the Storm</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://overwatch.fandom.com/wiki/"
+			   data-tracking="custom-level-2"
+			>
+								<span>Overwatch</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+						</ul>
+			<ul class="wds-tabs medium-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>Warcraft</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Warcraft_I"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft I</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_II"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft II</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft III</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_III:_Reforged"
+			   data-tracking="custom-level-2"
+			>
+								<span>Reforged</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Warcraft_universe"
+			   data-tracking="custom-level-2"
+			>
+								<span>Warcraft universe</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/World_of_Warcraft"
+			   data-tracking="custom-level-2"
+			>
+								<span>World of Warcraft</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown more-menu">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="more-menu"
+				>
+										<span>More</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked wds-community-bar__level-1">
+			<li>
+			<a href="#"
+			   data-index="0"
+						>
+			<span class="wds-community-bar__item-content">
+											World of Warcraft				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+			<li>
+			<a href="#"
+			   data-index="1"
+						>
+			<span class="wds-community-bar__item-content">
+											Related wikis				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+	</ul>
+								<div class="wds-community-bar__level-2" data-index="0">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						World of Warcraft				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Shadowlands"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:0"
+						>
+								Shadowlands													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:1"
+						>
+								Burning Crusade Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:2"
+						>
+								Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Wowpedia:Interface_customization"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:3"
+						>
+								Interface customization													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Class"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:4"
+						>
+								Classes													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Race"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:5"
+						>
+								Races													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Faction"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:6"
+						>
+								Factions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Reputation"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:7"
+						>
+								Reputation													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Profession"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:8"
+						>
+								Professions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Equipment"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:9"
+						>
+								Equipment													</a>
+					</li>
+							</ul>
+		</div>
+																<div class="wds-community-bar__level-2" data-index="1">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						Related wikis				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="https://hearthstone.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:0"
+						>
+								Hearthstone													</a>
+					</li>
+									<li>
+						<a
+							href="https://diablo.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:1"
+						>
+								Diablo													</a>
+					</li>
+									<li>
+						<a
+							href="https://starcraft.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:2"
+						>
+								StarCraft													</a>
+					</li>
+									<li>
+						<a
+							href="https://heroesofthestorm.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:3"
+						>
+								Heroes of the Storm													</a>
+					</li>
+									<li>
+						<a
+							href="https://overwatch.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:4"
+						>
+								Overwatch													</a>
+					</li>
+							</ul>
+		</div>
+															</div>
+		</div>
+						</ul>
+			<ul class="wds-tabs small-navigation">
+							
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+					<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-book-tiny"></use></svg>					<span>Explore</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Wowpedia"
+			   data-tracking="explore-main-page"
+			>
+				<svg class="wds-icon-tiny wds-icon navigation-item-icon"><use xlink:href="#wds-icons-home-tiny"></use></svg>				<span>Main Page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://wowpedia.fandom.com/wiki/Special:AllPages"
+			   data-tracking="explore-all-pages"
+			>
+								<span>All Pages</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="custom-level-1"
+				>
+										<span>navigation</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked">
+													
+			<li>
+			<a href="/wiki/Wowpedia"
+			   data-tracking="custom-level-2"
+			>
+								<span>Main page</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Community_portal"
+			   data-tracking="custom-level-2"
+			>
+								<span>Community portal</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:RecentChanges"
+			   data-tracking="custom-level-2"
+			>
+								<span>Recent changes</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Special:Random"
+			   data-tracking="custom-level-2"
+			>
+								<span>Random article</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Category:Things_to_do"
+			   data-tracking="custom-level-2"
+			>
+								<span>Things to do</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="/wiki/Wowpedia:Village_pump"
+			   data-tracking="custom-level-2"
+			>
+								<span>Village pump</span>
+			</a>
+		</li>
+														
+			<li>
+			<a href="https://discord.gg/gnGQcAk"
+			   data-tracking="custom-level-2"
+			>
+								<span>Discord</span>
+			</a>
+		</li>
+												</ul>
+							</div>
+		</div>
+								
+			<div class="wds-dropdown more-menu">
+			<div class="wds-tabs__tab-label wds-dropdown__toggle first-level-item">
+				<a href="#"
+				   data-tracking="more-menu"
+				>
+										<span>More</span>
+				</a>
+				<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg>			</div>
+			<div class="wds-is-not-scrollable wds-dropdown__content">
+									<ul class="wds-list wds-is-linked wds-community-bar__level-1">
+			<li>
+			<a href="#"
+			   data-index="0"
+						>
+			<span class="wds-community-bar__item-content">
+											Warcraft				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+			<li>
+			<a href="#"
+			   data-index="1"
+						>
+			<span class="wds-community-bar__item-content">
+											World of Warcraft				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+			<li>
+			<a href="#"
+			   data-index="2"
+						>
+			<span class="wds-community-bar__item-content">
+											Related wikis				</span>
+							<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>						</a>
+		</li>
+	</ul>
+								<div class="wds-community-bar__level-2" data-index="0">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						Warcraft				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="/wiki/Warcraft_I"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:0"
+						>
+								Warcraft I													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_II"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:1"
+						>
+								Warcraft II													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_III"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:2"
+						>
+								Warcraft III													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_III:_Reforged"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:3"
+						>
+								Reforged													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Warcraft_universe"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:4"
+						>
+								Warcraft universe													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft"
+							data-tracking-label="custom-level-3"
+							data-level2-index="0:5"
+						>
+								World of Warcraft													</a>
+					</li>
+							</ul>
+		</div>
+												<div class="wds-community-bar__level-2" data-index="1">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						World of Warcraft				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Shadowlands"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:0"
+						>
+								Shadowlands													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Burning_Crusade_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:1"
+						>
+								Burning Crusade Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/World_of_Warcraft:_Classic"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:2"
+						>
+								Classic													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Wowpedia:Interface_customization"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:3"
+						>
+								Interface customization													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Class"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:4"
+						>
+								Classes													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Race"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:5"
+						>
+								Races													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Faction"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:6"
+						>
+								Factions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Reputation"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:7"
+						>
+								Reputation													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Profession"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:8"
+						>
+								Professions													</a>
+					</li>
+									<li>
+						<a
+							href="/wiki/Equipment"
+							data-tracking-label="custom-level-3"
+							data-level2-index="1:9"
+						>
+								Equipment													</a>
+					</li>
+							</ul>
+		</div>
+																<div class="wds-community-bar__level-2" data-index="2">
+			<div class="wds-community-bar__navigation-back">
+				<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-menu-control-tiny"></use></svg>				Back			</div>
+							<a
+					class="wds-community-bar__navigation-header"
+					href="#"
+					data-tracking-label="custom-level-2"
+				>
+						Related wikis				</a>
+						<ul class="wds-list wds-is-linked">
+									<li>
+						<a
+							href="https://hearthstone.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:0"
+						>
+								Hearthstone													</a>
+					</li>
+									<li>
+						<a
+							href="https://diablo.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:1"
+						>
+								Diablo													</a>
+					</li>
+									<li>
+						<a
+							href="https://starcraft.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:2"
+						>
+								StarCraft													</a>
+					</li>
+									<li>
+						<a
+							href="https://heroesofthestorm.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:3"
+						>
+								Heroes of the Storm													</a>
+					</li>
+									<li>
+						<a
+							href="https://overwatch.fandom.com/wiki/"
+							data-tracking-label="custom-level-3"
+							data-level2-index="2:4"
+						>
+								Overwatch													</a>
+					</li>
+							</ul>
+		</div>
+															</div>
+		</div>
+						</ul>
+	</nav>
+</header>
+		</div>
+		<div class="page has-right-rail">
+			<main class="page__main" lang="en">
+				<div class="page-side-tools__wrapper">
+					<div class="page-side-tools">
+						<button class="page-side-tool content-size-toggle">
+															<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg>													</button>
+													<a class="page-side-tool page-side-edit" href="/wiki/Spell_power_coefficient?action=edit"
+								id="ca-viewsource-side-tool"
+								data-tracking-label="ca-viewsource"
+								data-wds-tooltip="View source"
+								data-wds-tooltip-position="right"
+							>
+								<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-lock-small"></use></svg>							</a>
+											</div>
+				</div>
+									
+	<div class="page-header">
+		<div class="page-header__top">
+			
+	<div class="page-header__categories">
+		<span class="page-header__categories-in">in:</span>
+		<a href="/wiki/Category:Formulas_and_game_mechanics" title="Category:Formulas and game mechanics" data-tracking-label="categories-top-more-0">Formulas and game mechanics</a>			</div>
+								</div>
+		<div class="page-header__bottom">
+			<div class="page-header__title-wrapper">
+				<h1 class="page-header__title" id="firstHeading">
+					Spell power coefficient				</h1>
+																</div>
+			<div class="page-header__actions" id="p-views">
+				
+				
+									<a class="wds-button wds-is-text page-header__action-button has-label" href="/wiki/Spell_power_coefficient?action=edit"
+					   id="ca-viewsource"
+					   data-tracking-label="ca-viewsource"
+							accesskey="e"					>
+						<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-lock-small"></use></svg>						View source					</a>
+				
+				
+									<div class="wds-dropdown">
+							<div class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button">
+								<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-more-small"></use></svg>							</div>
+							<div id="p-cactions" class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable">
+								<ul class="wds-list wds-is-linked">
+																			<li>
+											<a id="ca-history"
+											   href="/wiki/Spell_power_coefficient?action=history"
+																							   data-tracking-label="ca-history-dropdown"
+												accesskey="h">
+												History											</a>
+										</li>
+																			<li>
+											<a id="ca-talk"
+											   href="/wiki/Talk:Spell_power_coefficient"
+																							   data-tracking-label="ca-talk-dropdown"
+												accesskey="t">
+												Talk (95)											</a>
+										</li>
+																	</ul>
+							</div>
+						</div>
+											</div>
+		</div>
+	</div>
+								<div id="content" class="page-content">
+															<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="mw-parser-output"><p><b>Spell power coefficient</b> is an intrinsic property of a spell that determines how much bonus damage or healing it gets from the <a href="/wiki/Spell_power" title="Spell power">spell power</a> attribute accumulated from gear, buffs, and talents. In most cases, the coefficient is fixed for a spell.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/Attack_power_coefficient" title="Attack power coefficient">Attack power coefficient</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20210827191840
+Cache expiry: 1209600
+Dynamic content: false
+CPU time usage: 0.005 seconds
+Real time usage: 0.006 seconds
+Preprocessor visited node count: 3/1000000
+Preprocessor generated node count: 8/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key prod:wowpedia:pcache:idhash:89690-0!canonical!FandomDesktop!LegacyGalleries and timestamp 20210827191840 and revision id 4195914
+ -->
+</div></div>				</div>
+				<div class="page-footer">
+					
+	<div class="wds-collapsible-panel wds-is-collapsed page-footer__categories">
+		<header class="wds-collapsible-panel__header">
+			Categories			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg>		</header>
+		<div class="wds-collapsible-panel__content">
+							<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<ul class="categories">
+			<li class="special-categories-label"><a href="/wiki/Special:Categories" class="categoriesLink" title="Special:Categories">Categories</a></li>
+						<li class="category normal" data-name="Formulas and game mechanics" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Formulas_and_game_mechanics" title="Category:Formulas and game mechanics">Formulas and game mechanics</a></span>
+	<span class="tool removeCategory"></span>
+</li>
+		
+					</ul>
+			</div>
+	</nav>
+					</div>
+	</div>
+					
+												<div class="license-description">
+		Community content is available under <a href="https://www.fandom.com/licensing">CC BY-SA 3.0</a> unless otherwise noted.	</div>
+					
+									</div>
+			</main>
+							
+<aside class="page__right-rail">
+		
+<div class="right-rail-wrapper WikiaRail">
+	<div id="rail-boxad-wrapper"></div>
+				<div id="WikiaRail"></div>
+		</div>
+</aside>
+
+					</div>
+		<div id="mixed-content-footer" class="mcf-en" data-number-of-wiki-articles="9"
+	 data-number-of-ns-articles="10">
+	
+	<div class="ad-slot-placeholder bottom-leaderboard is-loading"></div>
+	<div class="mcf-wrapper">
+		<div class="mcf-content">
+			<h1 class="mcf-header">Fan Feed			</h1>
+			<div class="mcf-mosaic">
+				<div class="mcf-column">
+											<div class="mcf-card mcf-card-wiki-articles">
+							<header class="mcf-card-wiki-articles__header">
+							<span class="mcf-card-wiki-articles__header-text">More Wowpedia</span>
+							</header>
+							<ul class="mcf-card-wiki-articles__list">
+																<li class="mcf-card-wiki-articles__item">
+									<a href="/wiki/Zovaal" class="mcf-card-wiki-articles__item-link" data-tracking="more-wiki-0" title="Zovaal">
+										<span class="mcf-card-wiki-articles__circle">1</span>
+										<span class="mcf-card-wiki-articles__title">Zovaal</span>
+									</a>
+								</li>
+																<li class="mcf-card-wiki-articles__item">
+									<a href="/wiki/Sylvanas_Windrunner" class="mcf-card-wiki-articles__item-link" data-tracking="more-wiki-1" title="Sylvanas Windrunner">
+										<span class="mcf-card-wiki-articles__circle">2</span>
+										<span class="mcf-card-wiki-articles__title">Sylvanas Windrunner</span>
+									</a>
+								</li>
+																<li class="mcf-card-wiki-articles__item">
+									<a href="/wiki/Arthas_Menethil" class="mcf-card-wiki-articles__item-link" data-tracking="more-wiki-2" title="Arthas Menethil">
+										<span class="mcf-card-wiki-articles__circle">3</span>
+										<span class="mcf-card-wiki-articles__title">Arthas Menethil</span>
+									</a>
+								</li>
+															</ul>
+						</div>
+					
+											<div class="mcf-card-ns-placeholder" data-tracking="footer-card-4"></div>
+						<div class="mcf-card-wiki-placeholder" data-tracking="footer-card-7"></div>
+										<div class="mcf-card-ns-placeholder mcf-card-tall" data-tracking="footer-card-10"></div>
+					<div class="mcf-card-wiki-placeholder" data-tracking="footer-card-13"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-16"></div>
+					<div class="mcf-card-wiki-placeholder mcf-card-tall" data-tracking="footer-card-19"></div>
+				</div>
+
+				<div class="mcf-column">
+					<div class="mcf-card-ns-placeholder mcf-card-sponsored-content" data-tracking="footer-card-2"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-5"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-8"></div>
+					<div class="mcf-card-wiki-placeholder" data-tracking="footer-card-11"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-14"></div>
+					<div class="mcf-card-wiki-placeholder" data-tracking="footer-card-17"></div>
+					<div class="mcf-card mcf-card-related-wikis">
+						<header class="mcf-card-related-wikis__header">
+							Explore Wikis						</header>
+						<ul class="mcf-card-related-wikis__list">
+														<li class="mcf-card-related-wikis__item">
+								<a href="http://bit.ly/en-spotlight-universalconquest" class="mcf-card-related-wikis__item-link" data-tracking="explore-wikis-0" title="Universal Conquest Wiki">
+									<img src="https://vignette.wikia.nocookie.net/spotlightsimagestemporary/images/0/0e/UC.JPG/revision/latest?cb=20200923195325" class="mcf-card-related-wikis__item-image">
+									<div>
+										<span class="mcf-card-related-wikis__title">Universal Conquest Wiki</span>
+									</div>
+								</a>
+							</li>
+														<li class="mcf-card-related-wikis__item">
+								<a href="https://letsgoluna.fandom.com/wiki/Let%27s_Go_Luna!_Wiki" class="mcf-card-related-wikis__item-link" data-tracking="explore-wikis-1" title="Let&#039;s Go Luna! Wiki">
+									<img src="https://vignette.wikia.nocookie.net/letsgoluna/images/c/cd/Erik-Luna-article-2-copy.png/revision/latest?cb=20200327133046" class="mcf-card-related-wikis__item-image">
+									<div>
+										<span class="mcf-card-related-wikis__title">Let's Go Luna! Wiki</span>
+									</div>
+								</a>
+							</li>
+														<li class="mcf-card-related-wikis__item">
+								<a href="https://club57.fandom.com/wiki/Club_57_Wiki" class="mcf-card-related-wikis__item-link" data-tracking="explore-wikis-2" title="Club 57 Wiki">
+									<img src="https://vignette.wikia.nocookie.net/club57/images/b/b2/Rainbow-Club-57-cover.jpg/revision/latest?cb=20200522172522" class="mcf-card-related-wikis__item-image">
+									<div>
+										<span class="mcf-card-related-wikis__title">Club 57 Wiki</span>
+									</div>
+								</a>
+							</li>
+													</ul>
+					</div>
+				</div>
+
+				<div class="mcf-column">
+					<div class="mcf-card-wiki-placeholder" data-tracking="footer-card-3"></div>
+					<div class="mcf-card-wiki-placeholder mcf-card-tall" data-tracking="footer-card-6"></div>
+					<div class="mcf-card-wiki-placeholder" data-tracking="footer-card-9"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-12"></div>
+					<div class="mcf-card-wiki-placeholder mcf-card-tall" data-tracking="footer-card-15"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-18"></div>
+					<div class="mcf-card-ns-placeholder" data-tracking="footer-card-21"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+			<footer class="wds-global-footer">
+	<div class="wds-global-footer__main">
+		<div class="wds-global-footer__column">
+							<h2 class="wds-global-footer__header">
+					<a href="https://www.fandom.com/"
+					   data-tracking-label="logo"
+					   title="Fandom"
+					   aria-label="Fandom homepage">
+						<svg class="wds-global-footer__header-logo"><use xlink:href="#wds-brand-fandom-logo-light"></use></svg>					</a>
+				</h2>
+						<section class="wds-global-footer__section wds-is-fandom-overview">
+			<h3 class="wds-global-footer__section-header">Explore properties</h3>
+	
+	
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.fandom">
+	Fandom</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.gamepedia.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.gamepedia">
+	Gamepedia</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.dndbeyond.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.dnd-beyond">
+	D&amp;D Beyond</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.cortexrpg.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.cortexrpg">
+	Cortex RPG</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.muthead.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.muthead">
+	Muthead</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.futhead.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.futhead">
+	Futhead</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fanatical.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="explore.fanatical">
+	Fanatical</a>
+									</li>
+					</ul>
+	</section>
+			<section class="wds-global-footer__section wds-is-follow-us">
+			<h3 class="wds-global-footer__section-header">Follow Us</h3>
+	
+	
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.facebook.com/getfandom"
+   class="wds-global-footer__link"
+   data-tracking-label="follow-us.facebook"
+   aria-label="Follow Fandom on Facebook"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-icons-facebook"></use></svg></a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://twitter.com/getfandom"
+   class="wds-global-footer__link"
+   data-tracking-label="follow-us.twitter"
+   aria-label="Follow Fandom on Twitter"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-icons-twitter"></use></svg></a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.youtube.com/fandomentertainment"
+   class="wds-global-footer__link"
+   data-tracking-label="follow-us.youtube"
+   aria-label="Follow Fandom on Youtube"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-icons-youtube"></use></svg></a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.instagram.com/getfandom/"
+   class="wds-global-footer__link"
+   data-tracking-label="follow-us.instagram"
+   aria-label="Follow Fandom on Instagram"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-icons-instagram"></use></svg></a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.linkedin.com/company/157252"
+   class="wds-global-footer__link"
+   data-tracking-label="follow-us.linkedin"
+   aria-label="Follow Fandom on LinkedIn"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-icons-linkedin"></use></svg></a>
+									</li>
+					</ul>
+	</section>
+		</div>
+		<div class="wds-global-footer__column">
+			<section class="wds-global-footer__section wds-is-site-overview">
+			<h3 class="wds-global-footer__section-header">Overview</h3>
+	
+	
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/what-is-fandom"
+   class="wds-global-footer__link"
+   data-tracking-label="company-overview.what-is-fandom">
+	What is Fandom?</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/about"
+   class="wds-global-footer__link"
+   data-tracking-label="company-overview.about">
+	About</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/careers"
+   class="wds-global-footer__link"
+   data-tracking-label="company-overview.careers">
+	Careers</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/press"
+   class="wds-global-footer__link"
+   data-tracking-label="company-overview.press">
+	Press</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/about#contact"
+   class="wds-global-footer__link"
+   data-tracking-label="company-overview.contact">
+	Contact</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/terms-of-use"
+   class="wds-global-footer__link"
+   data-tracking-label="site-overview.terms-of-use">
+	Terms of Use</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/privacy-policy"
+   class="wds-global-footer__link"
+   data-tracking-label="site-overview.privacy-policy">
+	Privacy Policy</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="//community.fandom.com/Sitemap"
+   class="wds-global-footer__link"
+   data-tracking-label="site-overview.global-sitemap">
+	Global Sitemap</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="/wiki/Local_Sitemap"
+   class="wds-global-footer__link"
+   data-tracking-label="site-overview.local-sitemap">
+	Local Sitemap</a>
+									</li>
+					</ul>
+	</section>
+		</div>
+		<div class="wds-global-footer__column">
+			<section class="wds-global-footer__section wds-is-community">
+			<h3 class="wds-global-footer__section-header">Community</h3>
+	
+	
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="//community.fandom.com/wiki/Community_Central"
+   class="wds-global-footer__link"
+   data-tracking-label="community.community-central">
+	Community Central</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://fandom.zendesk.com/"
+   class="wds-global-footer__link"
+   data-tracking-label="community.support">
+	Support</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="//community.fandom.com/wiki/Help:Contents"
+   class="wds-global-footer__link"
+   data-tracking-label="community.help">
+	Help</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/do-not-sell-my-info"
+   class="wds-global-footer__link"
+   data-tracking-label="community.usp-do-not-sell">
+	Do Not Sell My Info</a>
+									</li>
+					</ul>
+	</section>
+			<section class="wds-global-footer__section wds-is-advertise">
+			<h3 class="wds-global-footer__section-header">Advertise</h3>
+	
+	
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/mediakit"
+   class="wds-global-footer__link"
+   data-tracking-label="advertise.media-kit">
+	Media Kit</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandomatic.com"
+   class="wds-global-footer__link"
+   data-tracking-label="advertise.fandomatic">
+	Fandomatic</a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://www.fandom.com/mediakit#contact"
+   class="wds-global-footer__link"
+   data-tracking-label="advertise.contact">
+	Contact</a>
+									</li>
+					</ul>
+	</section>
+		</div>
+		<div class="wds-global-footer__column">
+			<section class="wds-global-footer__section wds-is-fandom-apps">
+			<h3 class="wds-global-footer__section-header">Fandom Apps</h3>
+	
+			Take your favorite fandoms with you and never miss a beat.	
+	
+	</section>
+			<section class="wds-global-footer__section wds-is-fandom-stores">
+	
+	
+			<figure class="wds-global-footer__image">
+	<svg class="wds-icon"><use xlink:href="#wds-brand-fandom-logo-store"></use></svg>	</figure>
+
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803"
+   class="wds-global-footer__link"
+   data-tracking-label="community-apps.app-store"
+   aria-label="Fandom&#039;s Apple Store"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-brand-other-appstore"></use></svg></a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://play.google.com/store/apps/details?id=com.fandom.app&amp;referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter"
+   class="wds-global-footer__link"
+   data-tracking-label="community-apps.google-play"
+   aria-label="Fandom&#039;s Google Play"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-brand-other-googleplay"></use></svg></a>
+									</li>
+					</ul>
+	</section>
+			<section class="wds-global-footer__section wds-is-ddb-stores">
+	
+	
+			<figure class="wds-global-footer__image">
+	<svg class="wds-icon"><use xlink:href="#wds-brand-ddb-logo-store"></use></svg>	</figure>
+
+	
+			<ul class="wds-global-footer__links-list">
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://apps.apple.com/us/app/id1501810129"
+   class="wds-global-footer__link"
+   data-tracking-label="community-apps.app-store-ddb"
+   aria-label="D&amp;D Beyond&#039;s Apple Store"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-brand-other-appstore"></use></svg></a>
+									</li>
+							<li class="wds-global-footer__links-list-item">
+											<a href="https://play.google.com/store/apps/details?id=com.fandom.playercompanion&amp;referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter"
+   class="wds-global-footer__link"
+   data-tracking-label="community-apps.google-play-ddb"
+   aria-label="D&amp;D Beyond&#039;s Google Play"
+>
+	<svg class="wds-global-footer__link-image wds-icon wds-icon-small"><use xlink:href="#wds-brand-other-googleplay"></use></svg></a>
+									</li>
+					</ul>
+	</section>
+		</div>
+	</div>
+	<div class="wds-global-footer__bottom-bar">
+		<div class="wds-global-footer__bottom-bar-row wds-has-padding">Wowpedia is a FANDOM Games Community.</div>
+
+		<div class="wds-global-footer__bottom-bar-row wds-has-border-top mobile-site-link">
+	<a href="https://wowpedia.fandom.com/wiki/Spell_power_coefficient?title=Spell_power_coefficient&mobileaction=toggle_view_mobile" class="wds-font-size-xs wds-font-weight-bold wds-leading-tight wds-text-transform-uppercase">
+		View Mobile Site	</a>
+</div>
+	</div>
+
+</footer>
+	</div>
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.005","walltime":"0.006","ppvisitednodes":{"value":3,"limit":1000000},"ppgeneratednodes":{"value":8,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20210827191840","ttl":1209600,"transientcontent":false}}});});</script>
+<script defer="" src="https://www.fastly-insights.com/static/scout.js?k=17272cd8-82ee-4eb5-b5a3-b3cd5403f7c5"></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85});});</script><div id="WikiaBar">
+	<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+		<div class="wikia-bar wikia-bar-anon">
+				<a class="wikiabar-button" href="http://bit.ly/fandomshop1" data-index="0">
+		<span>FandomShop</span>
+	</a>
+	<a class="wikiabar-button" href="https://bit.ly/WBEmailCap" data-index="1">
+		<span>Newsletter</span>
+	</a>
+	<a class="wikiabar-button" href="http://bit.ly/NewFanLabWB" data-index="2">
+		<span>Join Fan Lab</span>
+	</a>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Bingebot: Find a new show to watch in 30 seconds&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/Binge30&quot;},{&quot;text&quot;:&quot;Bingebot: Find a new show to watch in 30 seconds&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/Binge30&quot;},{&quot;text&quot;:&quot;Bingebot: Find a new show to watch in 30 seconds&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/Binge30&quot;},{&quot;text&quot;:&quot;Bingebot: Find a new show to watch in 30 seconds&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/Binge30&quot;},{&quot;text&quot;:&quot;Bingebot: Find a new show to watch in 30 seconds&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/Binge30&quot;}]"
+></div>
+			<a href="#" class="arrow" data-trigger="hover" data-tooltip="Collapse"
+			   data-tooltipshow="Show">
+				<svg class="wds-icon wds-icon-small close-icon"><use xlink:href="#wds-icons-close-small"></use></svg>			</a>
+		</div>
+	</div>
+
+	<div class="WikiaBarCollapseWrapper" data-trigger="hover"
+		 data-tooltip="Collapse">
+		<div class="wikia-bar-collapse">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" viewBox="0 0 24 24"
+				 class="wds-icon wds-icon-small">
+				<g clip-path="url(#wrench_clip0)">
+					<path d="M23 4c-.265 0-.52.105-.707.293C22.105 4.48 22 4.735 22 5v2h-5V2h2c.265 0 .52-.105.707-.293C19.895 1.52 20 1.265 20 1c0-.265-.105-.52-.293-.707C19.52.105 19.265 0 19 0h-5c-.132 0-.262.024-.384.074-.122.05-.233.123-.326.216l-4 4c-.093.093-.166.204-.216.326C9.024 4.738 9 4.868 9 5v4.59l-7.71 7.7C.571 18.009.167 18.984.167 20c0 1.017.404 1.991 1.123 2.71.719.719 1.694 1.122 2.71 1.122s1.991-.403 2.71-1.122l7.7-7.71H19c.132 0 .262-.024.384-.074.122-.05.233-.123.326-.216l4-4c.093-.093.166-.204.216-.326.05-.122.075-.252.074-.384V5c0-.265-.105-.52-.293-.707C23.52 4.105 23.265 4 23 4zm-1 5.59L18.59 13H14c-.132 0-.262.024-.384.074-.122.05-.233.123-.326.216l-8 8c-.342.342-.806.534-1.29.534s-.948-.192-1.29-.534c-.342-.342-.534-.806-.534-1.29s.192-.948.534-1.29l8-8c.093-.093.166-.204.216-.326.05-.122.075-.252.074-.384V5.41L14.41 2H15v6c0 .265.105.52.293.707.187.188.442.293.707.293h6v.59z"/>
+				</g>
+				<defs>
+					<clipPath id="wrench_clip0">
+						<path fill="#fff" d="M0 0H24V24H0z"/>
+					</clipPath>
+				</defs>
+			</svg>
+		</div>
+	</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="height: 0px; width: 0px; position: absolute; overflow: hidden;" aria-hidden="true"><defs><path id="trash-tiny" d="M10 4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 2 0v5h2V5a1 1 0 0 1 2 0v5h2V5a1 1 0 0 1 1-1zm1-3a1 1 0 0 1 0 2H1a1 1 0 0 1 0-2h3a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3z"/><path id="flag-small" d="M3 11h10.586l-3.293-3.293a.999.999 0 0 1 0-1.414L13.586 3H3v8zm-1 7a1 1 0 0 1-1-1V1a1 1 0 0 1 2 0h13a1.002 1.002 0 0 1 .707 1.707L12.414 7l4.293 4.293A1 1 0 0 1 16 13H3v4a1 1 0 0 1-1 1z"/><path id="alert-small" d="M2.618 15.995L9 3.199l6.382 12.796H2.618zm15.276.554l-8-16.04C9.555-.17 8.445-.17 8.105.51l-8 16.04A1.003 1.003 0 0 0 1 18h16c.347 0 .668-.18.85-.476a.998.998 0 0 0 .044-.975zM8 7.975V9.98a1 1 0 1 0 2 0V7.975a1 1 0 1 0-2 0m1.71 4.3c-.05-.04-.1-.09-.16-.12a.567.567 0 0 0-.17-.09.61.61 0 0 0-.19-.06.999.999 0 0 0-.9.27c-.09.101-.16.201-.21.33a1.01 1.01 0 0 0-.08.383c0 .26.11.52.29.711.19.18.44.291.71.291.06 0 .13-.01.19-.02a.635.635 0 0 0 .19-.06.59.59 0 0 0 .17-.09c.06-.04.11-.08.16-.12.18-.192.29-.452.29-.712 0-.132-.03-.261-.08-.382a.94.94 0 0 0-.21-.33"/><path id="close-tiny" d="M7.426 6.001l4.278-4.279A1.008 1.008 0 1 0 10.278.296L6 4.574 1.723.296A1.008 1.008 0 1 0 .295 1.722l4.278 4.28-4.279 4.277a1.008 1.008 0 1 0 1.427 1.426L6 7.427l4.278 4.278a1.006 1.006 0 0 0 1.426 0 1.008 1.008 0 0 0 0-1.426L7.425 6.001z"/><path id="close-small" d="M10.414 9l6.293-6.293a.999.999 0 1 0-1.414-1.414L9 7.586 2.707 1.293a.999.999 0 1 0-1.414 1.414L7.586 9l-6.293 6.293a.999.999 0 1 0 1.414 1.414L9 10.414l6.293 6.293a.997.997 0 0 0 1.414 0 .999.999 0 0 0 0-1.414L10.414 9z"/><path id="aarow-tiny" d="M5 11a.997.997 0 0 1-.707-.293l-4-4A.983.983 0 0 1 0 6.003v-.006a.988.988 0 0 1 .293-.704l4-4a.999.999 0 1 1 1.414 1.414L3.414 5H11a1 1 0 1 1 0 2H3.414l2.293 2.293A.999.999 0 0 1 5 11"/><filter id="a" width="130%" height="130%" x="-15%" y="-15%" filterUnits="objectBoundingBox"><feOffset in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/></filter><rect id="b" width="150" height="150" rx="75"/><path id="user-avatar-a" d="M12 11c-.965 0-1.75-.785-1.75-1.75S11.035 7.5 12 7.5s1.75.785 1.75 1.75S12.965 11 12 11m0-5.5a3.754 3.754 0 0 0-3.75 3.75A3.754 3.754 0 0 0 12 13a3.754 3.754 0 0 0 3.75-3.75A3.754 3.754 0 0 0 12 5.5m7.679 12.914c-1.987-2.104-4.727-3.289-7.679-3.289-2.953 0-5.692 1.185-7.679 3.289A9.955 9.955 0 0 1 2 12C2 6.486 6.486 2 12 2s10 4.486 10 10a9.956 9.956 0 0 1-2.321 6.414M12 22a9.995 9.995 0 0 1-6.25-2.187c1.613-1.719 3.844-2.688 6.25-2.688s4.637.969 6.249 2.688A9.993 9.993 0 0 1 12 22m0-22C5.383 0 0 5.383 0 12c0 3.268 1.294 6.33 3.651 8.63l.012.013A12 12 0 0 0 12 24h.036a12.008 12.008 0 0 0 8.306-3.363C22.701 18.341 24 15.273 24 12c0-6.617-5.383-12-12-12"/><path id="bell-a" d="M15 19a1 1 0 0 0-1 1c0 1.104-.897 2-2 2s-2-.896-2-2a1 1 0 1 0-2 0c0 2.205 1.794 4 4 4s4-1.795 4-4a1 1 0 0 0-1-1m-8.675-5l2.708-9.477A3.496 3.496 0 0 1 12.38 2c1.63 0 3.06 1.156 3.402 2.75L17.763 14H6.325zm11.411-9.668A5.507 5.507 0 0 0 12.38 0a5.505 5.505 0 0 0-5.27 3.975l-3.07 10.75A1 1 0 0 0 5 16h14a1 1 0 0 0 .977-1.209l-2.24-10.459z"/><path id="bubble-small" d="M15 10c0 .551-.449 1-1 1H9a.997.997 0 0 0-.707.293L6 13.586V12a1 1 0 0 0-1-1H4c-.551 0-1-.449-1-1V4c0-.551.449-1 1-1h10c.551 0 1 .449 1 1v6zm-1-9H4C2.346 1 1 2.346 1 4v6c0 1.654 1.346 3 3 3v3a1 1 0 0 0 1.707.707L9.414 13H14c1.654 0 3-1.346 3-3V4c0-1.654-1.346-3-3-3zm-2 5H6a1 1 0 1 0 0 2h6a1 1 0 1 0 0-2"/><path id="bubble-tiny" d="M3 2c-.551 0-1 .449-1 1v3c0 .551.449 1 1 1a1 1 0 0 1 1 1v.586l1.293-1.293A.997.997 0 0 1 6 7h3c.551 0 1-.449 1-1V3c0-.551-.449-1-1-1H3zm0 10a1.002 1.002 0 0 1-1-1V8.829A3.006 3.006 0 0 1 0 6V3c0-1.654 1.346-3 3-3h6c1.654 0 3 1.346 3 3v3c0 1.654-1.346 3-3 3H6.414l-2.707 2.707A1 1 0 0 1 3 12z"/><path id="comment-small" d="M7 3C4.794 3 3 4.795 3 7c0 1.062.418 2.064 1.177 2.822A3.966 3.966 0 0 0 7 11a1 1 0 0 1 1 1v1.586l2.293-2.293A.997.997 0 0 1 11 11c2.206 0 4-1.795 4-4a3.97 3.97 0 0 0-1.177-2.823A3.97 3.97 0 0 0 11 3H7zm0 14a1 1 0 0 1-1-1v-3.084a5.96 5.96 0 0 1-3.237-1.68A5.951 5.951 0 0 1 1 7c0-3.309 2.691-6 6-6h4c1.595 0 3.1.626 4.237 1.762A5.96 5.96 0 0 1 17 7a6.007 6.007 0 0 1-5.571 5.984l-3.722 3.723A1 1 0 0 1 7 17z"/><path id="comment-tiny" d="M4.5 2c-.668 0-1.293.26-1.757.731A2.459 2.459 0 0 0 2 4.5c0 1.235.92 2.297 2.141 2.47A1 1 0 0 1 5 7.96v.626l1.293-1.293A.997.997 0 0 1 7 7h.5c.668 0 1.293-.26 1.757-.731.483-.476.743-1.1.743-1.769C10 3.122 8.878 2 7.5 2h-3zM4 12a1 1 0 0 1-1-1V8.739A4.52 4.52 0 0 1 0 4.5c0-1.208.472-2.339 1.329-3.183A4.424 4.424 0 0 1 4.5 0h3C9.981 0 12 2.019 12 4.5a4.432 4.432 0 0 1-1.329 3.183A4.424 4.424 0 0 1 7.5 9h-.086l-2.707 2.707A1 1 0 0 1 4 12z"/><path id="flag-tiny" d="M3 7h5L6.59 5.707A.957.957 0 0 1 6.27 5a.96.96 0 0 1 .32-.707L8 3H3v4zm-1 5a1 1 0 0 1-1-1V1a1 1 0 1 1 2 0h7.03l.003.001h.017a1 1 0 0 1 .942.872v.001c.008.064.01.128.006.191v.002a.997.997 0 0 1-.283.631v.001l-.002.002-.001.001-.001.001-.002.002-.002.002L8.414 5l2.293 2.293.003.003.001.001.001.001.001.001.002.002v.001a.997.997 0 0 1 .283.631v.002a1.02 1.02 0 0 1-.006.191v.001a.996.996 0 0 1-.315.609 1 1 0 0 1-.627.263h-.017L10.03 9H3v2a1 1 0 0 1-1 1z"/><path id="mention-small" d="M13 0H9C6.61305 0 4.32387 0.948212 2.63604 2.63604C0.948212 4.32387 0 6.61305 0 9C0 11.3869 0.948212 13.6761 2.63604 15.364C4.32387 17.0518 6.61305 18 9 18H15C15.2652 18 15.5196 17.8946 15.7071 17.7071C15.8946 17.5196 16 17.2652 16 17C16 16.7348 15.8946 16.4804 15.7071 16.2929C15.5196 16.1054 15.2652 16 15 16H9C7.14348 16 5.36301 15.2625 4.05025 13.9497C2.7375 12.637 2 10.8565 2 9C2 7.14348 2.7375 5.36301 4.05025 4.05025C5.36301 2.7375 7.14348 2 9 2H13C13.7956 2 14.5587 2.31607 15.1213 2.87868C15.6839 3.44129 16 4.20435 16 5V10.5C16 10.8978 15.842 11.2794 15.5607 11.5607C15.2794 11.842 14.8978 12 14.5 12C14.1022 12 13.7206 11.842 13.4393 11.5607C13.158 11.2794 13 10.8978 13 10.5V6C13 5.73478 12.8946 5.48043 12.7071 5.29289C12.5196 5.10536 12.2652 5 12 5C11.8048 4.99932 11.6137 5.05577 11.4502 5.16238C11.2868 5.269 11.1581 5.42112 11.08 5.6C10.455 5.21262 9.7353 5.00502 9 5C7.93913 5 6.92172 5.42143 6.17157 6.17157C5.42143 6.92172 5 7.93913 5 9C5 10.0609 5.42143 11.0783 6.17157 11.8284C6.92172 12.5786 7.93913 13 9 13C9.88286 12.9999 10.7396 12.7002 11.43 12.15C11.7964 12.8376 12.3824 13.3829 13.0947 13.6989C13.8069 14.0149 14.6044 14.0834 15.3601 13.8937C16.1158 13.7039 16.7863 13.2666 17.2647 12.6516C17.7431 12.0366 18.002 11.2792 18 10.5V5C18 3.67392 17.4732 2.40215 16.5355 1.46447C15.5979 0.526784 14.3261 0 13 0V0ZM9 11C8.60444 11 8.21776 10.8827 7.88886 10.6629C7.55996 10.4432 7.30362 10.1308 7.15224 9.76537C7.00087 9.39991 6.96126 8.99778 7.03843 8.60982C7.1156 8.22186 7.30608 7.86549 7.58579 7.58579C7.86549 7.30608 8.22186 7.1156 8.60982 7.03843C8.99778 6.96126 9.39991 7.00087 9.76537 7.15224C10.1308 7.30362 10.4432 7.55996 10.6629 7.88886C10.8827 8.21776 11 8.60444 11 9C11 9.53043 10.7893 10.0391 10.4142 10.4142C10.0391 10.7893 9.53043 11 9 11Z"/><path id="mention-tiny" d="M9 0H6C4.4087 0 2.88258 0.632141 1.75736 1.75736C0.632141 2.88258 0 4.4087 0 6C0 7.5913 0.632141 9.11742 1.75736 10.2426C2.88258 11.3679 4.4087 12 6 12H8C8.26522 12 8.51957 11.8946 8.70711 11.7071C8.89464 11.5196 9 11.2652 9 11C9 10.7348 8.89464 10.4804 8.70711 10.2929C8.51957 10.1054 8.26522 10 8 10H6C4.93913 10 3.92172 9.57857 3.17157 8.82843C2.42143 8.07828 2 7.06087 2 6C2 4.93913 2.42143 3.92172 3.17157 3.17157C3.92172 2.42143 4.93913 2 6 2H9C9.26522 2 9.51957 2.10536 9.70711 2.29289C9.89464 2.48043 10 2.73478 10 3V5.5C10 5.76522 9.89464 6.01957 9.70711 6.20711C9.51957 6.39464 9.26522 6.5 9 6.5C9.00498 6.42008 9.00498 6.33992 9 6.26V5.74C9 5.14591 8.764 4.57616 8.34392 4.15608C7.92384 3.736 7.35409 3.5 6.76 3.5H6.24C5.64591 3.5 5.07616 3.736 4.65608 4.15608C4.236 4.57616 4 5.14591 4 5.74V6.26C4 6.85409 4.236 7.42384 4.65608 7.84392C5.07616 8.264 5.64591 8.5 6.24 8.5H9C9.79565 8.5 10.5587 8.18393 11.1213 7.62132C11.6839 7.05871 12 6.29565 12 5.5V3C12 2.20435 11.6839 1.4
